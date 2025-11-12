@@ -24,7 +24,7 @@
   <a href="https://wa.me/201093932560" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://twitter.com/abdelra44897089" target="_blank">
+  <a href="https://x.com/sherif_jr21?t=KzjDuqi8kCxs4Xug0XdQYw&s=09" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://leetcode.com/abdelrahmansherif_21" target="_blank">
