@@ -1,18 +1,18 @@
 <h1 align="center">👋 Hey there, I'm Abdelrahman Sherif</h1>
-<h3 align="center">💻 Computer Science Student | ⚙️ Systems & Low-Level Dev Enthusiast</h3>
+<h3 align="center"> Computer Science Student | Systems & Low-Level Dev Enthusiast</h3>
 
 <p align="center">
-  🚀 Passionate about <strong>system programming</strong>, <strong>operating systems</strong>, and everything that happens <em>under the hood</em>.
+  Passionate about <strong>system programming</strong>, <strong>operating systems</strong>, and everything that happens <em>under the hood</em>.
 </p>
 
 ---
 
 ### 🌟 About Me
-- 🔭 Interested in **Low-level & Systems programming** — I love understanding what happens behind the scenes.  
-- ⚙️ Currently learning **Machine Learning**.  
-- 🧠 Working on building my own **Operating System**.  
-- 🤝 Love collaborating on **software systems** and open-source tools.  
-- ⚡ Fun fact: **I actually enjoy Assembly.**  
+-  Interested in **Low-level & Systems programming** — I love understanding what happens behind the scenes.  
+-  Currently learning **Machine Learning**.  
+-  Working on building my own **Operating System**.  
+-  Love collaborating on **software systems** and open-source tools.  
+-  Fun fact: **I actually enjoy Assembly.**  
 
 ---
 
@@ -34,7 +34,7 @@
 
 ---
 
-### 🧰 Languages & Tools
+### Languages & Tools
 <p align="center">
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="45" height="45"/></a>
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45"/></a>
