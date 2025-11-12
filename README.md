@@ -51,12 +51,9 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=SherifJR&theme=tokyonight" />
-  <img width="33%" src="https://github-readme-stats.vercel.app/api?username=SherifJR&show_icons=true&theme=tokyonight" />
-  <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SherifJR&layout=compact&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SherifJR&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SherifJR&layout=compact&theme=tokyonight" />
 </p>
-
-
 ---
 
 <p align="center">
