@@ -31,3 +31,25 @@
     <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <!-- Basic Stats -->
+  <img width="45%" 
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SherifJR&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <!-- Languages -->
+  <img width="45%" 
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SherifJR&layout=compact&theme=tokyonight&hide_border=true" />
+  
+  <!-- Streak -->
+  <img width="45%" 
+       src="https://streak-stats.demolab.com?user=SherifJR&theme=tokyonight&hide_border=true" />
+  
+  <!-- Activity Graph -->
+  <img width="90%" 
+       src="https://github-readme-activity-graph.vercel.app/graph?username=SherifJR&theme=tokyo-night&hide_border=true" />
+
+</div>
