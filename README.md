@@ -47,9 +47,4 @@
   <!-- Streak -->
   <img width="45%" 
        src="https://streak-stats.demolab.com?user=SherifJR&theme=tokyonight&hide_border=true" />
-  
-  <!-- Activity Graph -->
-  <img width="90%" 
-       src="https://github-readme-activity-graph.vercel.app/graph?username=SherifJR&theme=tokyo-night&hide_border=true" />
-
 </div>
