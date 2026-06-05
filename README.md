@@ -1,9 +1,10 @@
 <h1 align="center">👋 Hey there, I'm Abdelrahman Sherif</h1>
 <h3 align="center"> Computer Science Student | Systems & Low-Level Dev Enthusiast</h3>
-
 <p align="center">
   Passionate about <strong>system programming</strong>, <strong>operating systems</strong>, and everything that happens <em>under the hood</em>.
 </p>
+
+&nbsp;
 
 ---
 
@@ -13,6 +14,8 @@
 -  Working on building my own **Operating System**.  
 -  Love collaborating on **software systems** and open-source tools.  
 -  Fun fact: **I actually enjoy Assembly | Fedora user**  
+
+&nbsp;
 
 ---
 
@@ -32,14 +35,15 @@
   </a>
 </p>
 
+&nbsp;
+
+---
+
 ## 📊 GitHub Stats
-
 <div align="center">
-
   <!-- Basic Stats -->
   <img width="45%" 
        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SherifJR&show_icons=true&theme=tokyonight&hide_border=true" />
-
   <!-- Languages -->
   <img width="45%" 
        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SherifJR&layout=compact&theme=tokyonight&hide_border=true" />
